@@ -1,0 +1,6 @@
+{
+  "name": "FLASH - Le Sport en Temps Réel",
+  "description": "Application sportive haut de gamme FLASH : scores en direct, analyses de matches, paris sportifs et gaming avec interface native et fluide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
